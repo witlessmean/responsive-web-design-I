@@ -265,9 +265,10 @@ footer {
         align-self: center;
         background: pink; } .middle-img { width: 110%
         } .flexFeatures { width: 100% } .contactFlex {
-            margin: 0 auto;
-         }
-
+                 margin: 0 auto;
+              }
+              .logo { order: -1;
+            align-self: unset;}
     
 
     
